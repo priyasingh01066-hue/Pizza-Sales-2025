@@ -3,15 +3,18 @@ This dashboard provides an overview of pizza sales performance from January 2025
 
 ## Tools Used
 * Power BI – Used for data extraction and dashboard development.
-. Power Query – Used for data cleaning and transformation.
- DAX – Used to create calculated columns and measures.
- Data Visualization
+* Power Query – Used for data cleaning and transformation.
+* DAX – Used to create calculated columns and measures.
+* Data Visualization
 
 ## Key Insights
-Total Revenue: 817.86K
-Total Orders: 21,350
-Total Pizzas Sold: 49,574
-Top Category: Classic
-Most Preferred Size: Large
-Peak Month: July
-Busiest Day: Thursday
+1. Total Revenue: 817.86K
+2. Total Orders: 21,350
+3. Total Pizzas Sold: 49,574
+4. Top Category: Classic
+5. Most Preferred Size: Large
+6. Peak Month: July
+7. Busiest Day: Thursday
+
+## Files Included
+"C:\Users\PC\Downloads\Projects\Pizza Sales Project\Screenshot 2026-07-16 153611.png"
