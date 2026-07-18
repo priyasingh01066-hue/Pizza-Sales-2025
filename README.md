@@ -17,4 +17,10 @@ This dashboard provides an overview of pizza sales performance from January 2025
 7. Busiest Day: Thursday
 
 ## Files Included
-"C:\Users\PC\Downloads\Projects\Pizza Sales Project\Screenshot 2026-07-16 153611.png"
+<img width="662" height="368" alt="Screenshot 2026-07-16 153611" src="https://github.com/user-attachments/assets/7a8b07ff-b3d2-40ee-85e1-c75800b7e737" />
+<img width="662" height="370" alt="Screenshot 2026-07-16 153532" src="https://github.com/user-attachments/assets/1385014c-3d37-4f0d-9eb7-45339512d36f" />
+
+
+
+
+
